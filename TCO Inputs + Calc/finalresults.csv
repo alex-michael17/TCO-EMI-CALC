@@ -1,0 +1,4 @@
+,mass,acc,dist,duration,cons,acccons,SOCorfuelvol,battcap
+none,0,0,0,0,0,0,0,0
+data_RID23067+electricbus12moscar_acc.exp#1,14515,6,31.85034522,5844.3,983.6724615,9.74975693,305.768533,321344.4982
+data_RID23067+electricbus12moscar_acc.exp#2,50000,6,32.27304904,5020,1815.215109,9.111667824,259.1945989,642939.6611
